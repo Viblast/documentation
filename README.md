@@ -2,13 +2,13 @@
 # Viblast Documentation
 
 ## Viblast PDN
-This is the peer-assisted delivery (PDN) solution.
+This is the [peer-assisted delivery (PDN) solution](http://viblast.com/pdn/).
 
 * [Viblast PDN Getting Started Guide](https://github.com/Viblast/documentation/blob/master/client/getting-started.md)
 * [Viblast PDN Client Architecture](https://github.com/Viblast/documentation/blob/master/client/viblast-client-architecture.md)
 
 ## Viblast Portal
-This is the customer portal (sign in required), which contains video analytics, Viblast PDN setup instructions, swarm visualization and account management settings.
+This is the [customer portal](http://portal.viblast.com/) (sign in required), which contains video analytics, Viblast PDN setup instructions, swarm visualization and account management settings.
 
 * [Viblast Portal Tutorial](https://github.com/Viblast/documentation/blob/master/portal/tutorial.md)
 
