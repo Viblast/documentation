@@ -17,5 +17,5 @@
 
 ## Viblast Backend Documentation
 
-* [Viblast Backend Installation Guide](backend/installation)
+* [Viblast Backend Installation Guide](https://github.com/Viblast/documentation/blob/master/backend/installation.md)
 * [Viblast Portal REST API Guide](backend/portal-api)
