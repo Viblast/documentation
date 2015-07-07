@@ -1,4 +1,4 @@
-# Vibalst Portal REST API
+# Viblast Portal REST API
 #### (draft)
 
 Statistics collected and aggregated by Viblast Tracker and
