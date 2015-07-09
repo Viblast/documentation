@@ -4,7 +4,7 @@
 ## Viblast PDN
 This is the [peer-assisted delivery (PDN) solution](http://viblast.com/pdn/).
 
-* [Viblast PDN Getting Started Guide](https://github.com/Viblast/documentation/blob/master/client/getting-started.md)
+* [Viblast PDN Getting Started Guide](https://github.com/Viblast/documentation/blob/master/client/Viblast-PDN-getting-started.md)
 * [Viblast PDN Client Architecture](https://github.com/Viblast/documentation/blob/master/client/viblast-client-architecture.md)
 
 ## Viblast Portal
