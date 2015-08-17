@@ -12,6 +12,13 @@ This is the [customer portal](http://portal.viblast.com/) (sign in required), wh
 
 * [Viblast Portal Tutorial](https://github.com/Viblast/documentation/blob/master/portal/tutorial.md)
 
+## Viblast Player
+This is the player that brings HLS and MPEG-DASH playback to HTML5 & mobile.
+
+* [Getting Started](player/getting-started.md)
+* [DRM Protection](player/drm-protection.md)
+* [Video.js Integration](player/videojs-integration.md)
+
 ## Viblast Wowza Module
 This is the module which enables P2P delivery for [Wowza Streaming Engine](http://www.wowza.com/forums/showthread.php?41891-WebRTC-P2P-delivery-functionality-for-Wowza-Streaming-Engine), virtually increasing its streaming capacity. 
 
