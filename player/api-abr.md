@@ -43,7 +43,7 @@ console.log('current audio quality', video.viblast.audio.quality);
 Each item in the list of qualities is a JS object that has the following properties:
 
  * id - a string that identifies this quality
- * bandwidth - an optional number representing the bitrate of the channel in `kbps`
+ * bandwidth - an optional number representing the bitrate of the channel in `bps`
  * width - an optional number representing the horizontal resolution of a video
  * height - an optional number representing the vertical resolution of a video
  
